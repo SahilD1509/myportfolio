@@ -13,7 +13,6 @@ const App = () => {
   return (
     <div className="portfolio-container">
       <header className="header glass-effect">
-    
         <h1 className="name gradient-text">Sahil Dhiman</h1>
         <p className="title">MCA Graduate | Front-End Developer | AI Enthusiast</p>
         <div className="contact-links">
