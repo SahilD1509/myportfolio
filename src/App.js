@@ -13,8 +13,17 @@ const App = () => {
   return (
     <div className="portfolio-container">
       <header className="header glass-effect">
+      <img src="/PIC.jpg" alt="Sahil Dhiman" className="hero-profile-img" />
         <h1 className="name gradient-text">Sahil Dhiman</h1>
+       
         <p className="title">MCA Graduate | Front-End Developer | AI Enthusiast</p>
+        <a 
+           href="/Sahil_Resume.pdf" 
+           download="Sahil_Resume.pdf" 
+           className="download-resume-btn"
+         > 
+        📄 Download Resume
+       </a>
         <div className="contact-links">
           <span><FaPhoneAlt /> +91-9015130859</span>
           <span><FaEnvelope /> <a href="mailto:sdhiman1509@gmail.com">sdhiman1509@gmail.com</a></span>
