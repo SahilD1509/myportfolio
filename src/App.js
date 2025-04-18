@@ -13,7 +13,7 @@ const App = () => {
   return (
     <div className="portfolio-container">
       <header className="header glass-effect">
-      <img src="/Sahil-Pic.jpg" alt="Sahil Dhiman" className="hero-profile-img" />
+      
         <h1 className="name gradient-text">Sahil Dhiman</h1>
        
         <p className="title">MCA Graduate | Front-End Developer | AI Enthusiast</p>
